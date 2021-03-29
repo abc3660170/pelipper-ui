@@ -104,9 +104,9 @@
     "xss": "1.0.3"
   },
   "keywords": [
-    "verdaccio",
-    "verdaccio-plugin",
-    "verdaccio-theme"
+    "pelipper",
+    "pelipper-plugin",
+    "pelipper-theme"
   ],
   "scripts": {
     "flow": "flow check",
