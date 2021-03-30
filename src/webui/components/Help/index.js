@@ -40,7 +40,7 @@ const Help = (): Node => {
         <Typography variant={'body2'}>{'3. Refresh this page.'}</Typography>
       </CardContent>
       <CardActions>
-        <Button color={'primary'} href={'https://verdaccio.org/docs/en/installation'} size={'small'} target={'_blank'}>
+        <Button color={'primary'} href={'https://pelipper.org/docs/en/installation'} size={'small'} target={'_blank'}>
           {'Learn More'}
         </Button>
       </CardActions>

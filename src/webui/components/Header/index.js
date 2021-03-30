@@ -139,7 +139,7 @@ class Header extends Component<IProps, IState> {
     switch (type) {
       case 'help':
         content = (
-          <IconButton blank={true} color={'inherit'} component={ExternalLink} to={'https://verdaccio.org/docs/en/installation'}>
+          <IconButton blank={true} color={'inherit'} component={ExternalLink} to={'https://pelipper.org/docs/en/installation'}>
             <Help />
           </IconButton>
         );

@@ -73,7 +73,7 @@ class VersionPage extends Component<any, any> {
   async loadPackageInfo() {
     const { packageName } = this.state;
     // FIXME: use utility
-    document.title = `Verdaccio - ${packageName}`;
+    document.title = `Pelipper - ${packageName}`;
 
     this.setState({
       readMe: '',
